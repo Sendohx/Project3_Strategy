@@ -5,9 +5,6 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
-from Connect_Database.connect_database_new import ConnectDatabase
-from Project3_Strategy.CTABacktester import CTABacktester
-
 
 class BollingBand:
     """ """
