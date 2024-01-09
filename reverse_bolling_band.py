@@ -1,13 +1,6 @@
 # -*- coding = utf-8 -*-
-# @Time: 2023/12/19 16:30
-# @Author: Jiahao Xu
-# @File: reverse_bolling_band.py
-# @Software: PyCharm
 
-import os
-import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
 
 
 class ReverseBollingBand:

@@ -1,8 +1,4 @@
 # -*- coding = utf-8 -*-
-# @Time: 2023/12/19 12:52
-# @Author: Jiahao Xu
-# @File: CTABacktester.py
-# @Software: PyCharm
 
 import os
 import pandas as pd
