@@ -1,3 +1,4 @@
+# -*- coding = utf-8 -*-
 
 import pandas as pd
 import numpy as np
@@ -8,6 +9,7 @@ from bolling_band import BollingBand
 from reverse_bolling_band import ReverseBollingBand
 warnings.filterwarnings('ignore')
 
+# parameters
 root = '/nas92/xujiahao'
 strategy1 = 'BollingBand'
 strategy2 = 'ReverseBollingBand'
